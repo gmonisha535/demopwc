@@ -1,2 +1,9 @@
 body
 {background-color: plum;}
+p{
+    color: red;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+nav ul li{
+    list-style-type: none;
+}
